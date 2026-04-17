@@ -1,0 +1,10 @@
+{
+  "guildId": {
+    "ticketId": {
+      "user": "123456",
+      "staff": "987654",
+      "rating": 5,
+      "timestamp": 123456789
+    }
+  }
+}
